@@ -86,3 +86,6 @@ Lista de pastas principais para orientação:
 - /ClientApp: Pasta do projeto React.
 
 - /[HelloWorldApplication].sln: Arquivo de Solução (para abrir no Rider).```
+```
+
+# Chapter 01: Variables and Types
