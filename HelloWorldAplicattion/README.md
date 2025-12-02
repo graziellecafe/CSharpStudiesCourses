@@ -77,12 +77,12 @@ dotnet test
 Lista de pastas principais para orientação:
 
 ```/src: Código fonte principal
-/src/[NomeDoProjeto]: Projeto C# principal (API).
+- /src/[NomeDoProjeto]: Projeto C# principal (API).
 
-/src/[NomeDoProjeto]/Controllers: Endpoints da API.
+- /src/[NomeDoProjeto]/Controllers: Endpoints da API.
 
-/src/[NomeDoProjeto]/Models: Classes de dados.
+- /src/[NomeDoProjeto]/Models: Classes de dados.
 
-/ClientApp: Pasta do projeto React.
+- /ClientApp: Pasta do projeto React.
 
-/[HelloWorldApplication].sln: Arquivo de Solução (para abrir no Rider).```
+- /[HelloWorldApplication].sln: Arquivo de Solução (para abrir no Rider).```
